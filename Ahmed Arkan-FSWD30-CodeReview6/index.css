@@ -22,7 +22,7 @@ section{
 
 .carousel-inner{
 
-  height: 660px;
+  max-height: 660px;
 }
 article{
 
